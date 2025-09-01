@@ -1,3 +1,4 @@
 # Series
 
-- Bojack Horseman
+- [ ] Bojack Horseman
+- [ ] The Good Place
